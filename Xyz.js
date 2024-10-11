@@ -1,0 +1,1 @@
+console.log("importing this Xyz.js file in App.js file using require");

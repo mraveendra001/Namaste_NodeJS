@@ -1,0 +1,13 @@
+common js modules(cjs)   and  ES modules(mjs)
+-> module.exports                -> export 
+-> require()                     -> import statements
+->by default used in Node JS     ->need to write the type
+by default common js module is enabled ,but to use ES module u are supposed to write  { type :module }
+-> by default used in node js    -> by default used in react ,angular 
+-> older way                     -> newer way
+-> when common js reqires the    -> async way executes
+ modules in synchronous way      -> also called es6 modules , ESM
+ -> code run in non strict mode  -> runs in strict mode
+ -> its the older way but , its
+ still in use ,very popular in
+ node js 
